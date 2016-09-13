@@ -1,0 +1,9 @@
+[user]
+	name = Jakub Lekstan
+	email = kuebzky@gmail.com
+[color]
+	ui = auto
+[diff]
+	renames = copy
+[url "https://"]
+	insteadOf = git://

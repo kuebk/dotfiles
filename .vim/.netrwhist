@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/jlekstan/workspace/accelerator/edgeserver/lib/upstream'
+let g:netrw_dirhist_2='/home/jlekstan/workspace/accelerator/edgeserver'
+let g:netrw_dirhist_3='/home/jlekstan/workspace/accelerator/edgeserver/node_modules'
+let g:netrw_dirhist_4='/home/jlekstan/workspace/accelerator/edgeserver/node_modules/core'
+let g:netrw_dirhist_5='/home/jlekstan/workspace/accelerator/edgeserver/node_modules/core/lib'
+let g:netrw_dirhist_6='/home/jlekstan/workspace/accelerator/edgeserver/node_modules/core/lib/net'
+let g:netrw_dirhist_7='/home/jlekstan/workspace/sdk/core/lib/net'
+let g:netrw_dirhist_8='/home/jlekstan/workspace/sdk/core/lib'
+let g:netrw_dirhist_9='/home/jlekstan/workspace/sdk/core'
