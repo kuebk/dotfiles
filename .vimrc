@@ -56,3 +56,11 @@ let g:netrw_liststyle=1
 let g:netrw_maxfilenamelen=64
 let g:netrw_timefmt="%a %d %b %Y %T"
 let g:netrw_list_cmd="ssh HOSTNAME ls -FLa -lh"
+
+execute pathogen#infect()
+
+let g:syntastic_python_checkers = ['flake8']
+let g:syntastic_always_populate_loc_list=0
+let g:syntastic_auto_loc_list=0
+let g:syntastic_check_on_open=1
+let g:syntastic_check_on_wq=0
