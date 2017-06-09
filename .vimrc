@@ -51,6 +51,8 @@ set runtimepath-=/usr/share/vim-scripts
 set laststatus=2
 set statusline=%1*%F%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [ENC=%{strlen(&fenc)?&fenc:&enc}]%=\ [ASCII=\%03.3b]\ [HEX=\%02.2B]\ [POS=%l,%v][%p%%]%=
 
+set backspace=2
+
 "netrw
 let g:netrw_liststyle=1
 let g:netrw_maxfilenamelen=64
