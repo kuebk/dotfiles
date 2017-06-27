@@ -62,6 +62,7 @@ let g:netrw_list_cmd="ssh HOSTNAME ls -FLa -lh"
 execute pathogen#infect()
 
 let g:syntastic_python_checkers = ['flake8']
+let g:syntastic_javascript_checkers = ['jshint']
 let g:syntastic_always_populate_loc_list=0
 let g:syntastic_auto_loc_list=0
 let g:syntastic_check_on_open=1

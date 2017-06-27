@@ -1,0 +1,12 @@
+{
+    "curly": true,
+    "esversion": 6,
+    "forin": false,
+    "freeze": true,
+    "futurehostile": true,
+    "singleGroups": true,
+    "strict": true,
+    "undef": true,
+    "unused": true,
+    "node": true
+}
