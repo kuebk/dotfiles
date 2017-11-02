@@ -39,6 +39,7 @@ set number
 set hlsearch
 set hidden
 set noendofline "binary "prevents from adding empty line at end of the file
+set foldmethod=manual
 
 set wildmenu
 set autochdir
