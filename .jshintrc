@@ -1,6 +1,6 @@
 {
     "curly": true,
-    "esversion": 6,
+    "esversion": 11,
     "forin": false,
     "freeze": true,
     "futurehostile": true,
