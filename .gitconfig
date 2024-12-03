@@ -1,11 +1,10 @@
 [user]
     name = Jakub Lekstan
-    email = kuebzky@gmail.com
 [includeIf "gitdir:~/workspace/"]
     path = ~/.gitconfig.work
 [color]
     ui = auto
 [diff]
     renames = copy
-[url "https://"]
-    insteadOf = git://
+[url "git@github.com:"]
+    insteadOf = "https://github.com/"

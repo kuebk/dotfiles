@@ -1,5 +1,6 @@
 cp .bashrc ~/
 cp .gitconfig ~/
+cp .gitconfig.work ~/
 cp .screenrc ~/
 cp .vimrc ~/
 cp .jshintrc ~/
